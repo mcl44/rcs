@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "rcs",
+			"path": "."
+		},
+		{
+			"name": "archive",
+			"path": "archive"
+		},
+		{
+			"name": "record",
+			"path": "record"
+		}
+	],
+	"settings": {
+		
+	}
+}
